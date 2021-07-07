@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "505067305336",
+    "project_id": "recordlife-ad18b",
+    "storage_bucket": "recordlife-ad18b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505067305336:android:1fed0123c45d7e6aa6708d",
+        "android_client_info": {
+          "package_name": "com.test.recordlife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505067305336-s6s6jf681c58pduo2pm8u3up37m0osab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.recordlife",
+            "certificate_hash": "ed519f5ce46ea9db89d635b4f8484d205faf4e33"
+          }
+        },
+        {
+          "client_id": "505067305336-m66nmr4n2n9d51pg6k18gg7gtvco7kjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9lGOToOHT4Kt6ixoC1Wcx8ZRldmo2_3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505067305336-m66nmr4n2n9d51pg6k18gg7gtvco7kjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
